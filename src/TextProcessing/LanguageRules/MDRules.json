@@ -1,0 +1,7 @@
+{
+    "heading":{
+        "start": "# ",
+        "end": "\n",
+        "Element": "h1"
+    }
+}
